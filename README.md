@@ -1,4 +1,3 @@
-<!--
 # About me
 I'm a computer nerd who especially likes older versions of Windows like Windows 7. I think Windows 10 and 11 are garbage operating systems. I plan on using this GitHub page to provide software for Windows 7. I also like Touhou a lot and have multiple 1ccs (1 credit clears) across multiple of the games. I also like to play Mario Kart Wii and Sonic Racing: CrossWorlds. I also like Firefox and hope to port old Firefox themes (like [FrutigerFX](https://github.com/clifford269/FrutigerFX)) to newer Firefox versions in the future.
 
