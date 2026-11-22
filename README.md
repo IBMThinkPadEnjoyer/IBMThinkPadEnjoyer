@@ -2,11 +2,11 @@
 I'm a computer nerd who especially likes older versions of Windows like Windows 7. I think Windows 10 and 11 are garbage operating systems. I plan on using this GitHub page to provide software for Windows 7. I also like Touhou a lot and have multiple 1ccs (1 credit clears) across multiple of the games. I also like to play Mario Kart Wii and Sonic Racing: CrossWorlds. I also like Firefox and hope to port old Firefox themes (like [FrutigerFX](https://github.com/clifford269/FrutigerFX)) to newer Firefox versions in the future.
 
 # Main computer specs
-MOBO: ASUS TUF Gaming X570 PRO
-CPU: AMD Ryzen 9 5950X
-RAM: 32GB DDR4
-GPU: RTX 2080
-SSD: Samsung 980 PRO 1TB
+MOBO: ASUS TUF Gaming X570 PRO\
+CPU: AMD Ryzen 9 5950X\
+RAM: 32GB DDR4\
+GPU: RTX 2080\
+SSD: Samsung 980 PRO 1TB\
 OS: Windows 7 Enterprise SP1 x64
 
 # ThinkPads
