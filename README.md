@@ -10,7 +10,7 @@ SSD: Samsung 980 PRO 1TB\
 OS: Windows 7 Enterprise SP1 x64
 
 # ThinkPads
-I like ThinkPads a lot, and own quite a few of them, here are the ones I own:
+I like ThinkPads a lot, and own quite a few of them, here are the ones I own:\
 360 (has reliability issues, running IBM PC-DOS 6.3 with Windows 3.1)\
 365XD (11.3" TFT, dead CD drive, running NetBSD 10.1)\
 770 (Windows 95 OSR2+NT 4.0 SP6 dualboot)\
