@@ -27,10 +27,12 @@ T60p (15" 1600x1200, Windows XP Media Center Edition SP3)\
 X60 Tablet (dead CMOS battery, dualboot Windows XP Tablet PC edition SP3+Windows 7 Enterprise SP1)\
 W700ds (dead speakers, it has no OS because i put the drive in another computer)\
 X201 (Windows Home Server 2011 SP1)\
+X201 (dead, bought as a parts machine)\
 W510 (Windows Vista Ultimate SP2)\
 W520 (antiX Linux+Windows 7 Enterprise SP1+Windows 10 Pro 22H2 tripleboot)\
 T430s (no OS)\
 Twist (Windows 3.1+Windows 10 Pro 1703 dualboot)\
+X131e (ChromeOS, some keys don't work)\
 X1 Carbon Gen 2 (Windows 8.1 Enterprise Update 3)\
 P51 (no OS, dead trackpoint and trackpad)\
 X380 Yoga (Windows 7 Enterprise SP1+Windows 8.1 Enterprise dualboot, Windows 7 install is used for testing [WDDM2 builds on w7revived.chefkiss.dev](https://w7revived.chefkiss.dev/WDDM2_Backport/Win7/))
